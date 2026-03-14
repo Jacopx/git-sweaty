@@ -29456,5 +29456,18 @@
     "start_date_local": "2026-03-13T15:16:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 18046.2,
+    "elevation_gain": 360.0,
+    "id": "17717480609",
+    "moving_time": 3431.0,
+    "name": "Zwift - The Cafe Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T11:12:04Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
