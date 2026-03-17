@@ -29469,5 +29469,18 @@
     "start_date_local": "2026-03-14T11:12:04Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 27774.4,
+    "elevation_gain": 565.0,
+    "id": "17753768786",
+    "moving_time": 4417.0,
+    "name": "Pranzo attivo \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T12:43:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
