@@ -29482,5 +29482,18 @@
     "start_date_local": "2026-03-17T12:43:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 21095.8,
+    "elevation_gain": 514.0,
+    "id": "17766928227",
+    "moving_time": 4353.0,
+    "name": "Sprintarelli per pranzo \u26c5\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T13:07:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
