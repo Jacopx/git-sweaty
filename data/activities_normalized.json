@@ -29495,5 +29495,18 @@
     "start_date_local": "2026-03-18T13:07:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 19584.5,
+    "elevation_gain": 410.0,
+    "id": "17790805700",
+    "moving_time": 2965.0,
+    "name": "Ritorno alla route estive \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T13:16:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
