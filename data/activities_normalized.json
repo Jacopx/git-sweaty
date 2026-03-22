@@ -29508,5 +29508,31 @@
     "start_date_local": "2026-03-20T13:16:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 6389.6,
+    "elevation_gain": 21.0,
+    "id": "17812963147",
+    "moving_time": 812.0,
+    "name": "Zwift - Flat Out Fast in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T11:16:17Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 33109.4,
+    "elevation_gain": 111.0,
+    "id": "17814198263",
+    "moving_time": 3636.0,
+    "name": "Zwift - Stage 1 - The Zwift Big Spin",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T11:30:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
