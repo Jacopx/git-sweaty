@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T15:32:55.884765+00:00",
+  "generated_at": "2026-03-23T16:04:16.630379+00:00",
   "years": {
     "2016": {
       "AlpineSki": {
@@ -19378,6 +19378,15 @@
           "distance": 19584.5,
           "elevation_gain": 410.0,
           "moving_time": 2965.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17828555304"
+          ],
+          "count": 1,
+          "distance": 116465.0,
+          "elevation_gain": 1049.0,
+          "moving_time": 14290.0
         }
       },
       "VirtualRide": {

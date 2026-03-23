@@ -29534,5 +29534,18 @@
     "start_date_local": "2026-03-22T11:30:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 116465.0,
+    "elevation_gain": 1049.0,
+    "id": "17828555304",
+    "moving_time": 14290.0,
+    "name": "Un luned\u00ec che sa di domenica \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-23T10:54:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
