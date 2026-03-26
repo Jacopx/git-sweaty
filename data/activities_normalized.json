@@ -29560,5 +29560,31 @@
     "start_date_local": "2026-03-24T19:00:26Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 28805.0,
+    "elevation_gain": 489.0,
+    "id": "17856136012",
+    "moving_time": 4432.0,
+    "name": "Rientro verso casa \u2600\ufe0f \ud83d\udca8",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-25T17:42:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 25300.2,
+    "elevation_gain": 555.0,
+    "id": "17862568059",
+    "moving_time": 4088.0,
+    "name": "Schiaffi gelati tutta la mattina \ud83d\udca8",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-26T08:33:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
