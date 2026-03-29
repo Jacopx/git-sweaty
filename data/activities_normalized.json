@@ -29586,5 +29586,31 @@
     "start_date_local": "2026-03-26T08:33:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 43789.5,
+    "elevation_gain": 806.0,
+    "id": "17890767271",
+    "moving_time": 9029.0,
+    "name": "Passeggiato con la ebikerrrr",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T12:30:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 63447.2,
+    "elevation_gain": 1085.0,
+    "id": "17900557855",
+    "moving_time": 9571.0,
+    "name": "Assaggio di primavera \u2600\ufe0f\ud83d\udca8",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-29T11:09:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
