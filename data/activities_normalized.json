@@ -29612,5 +29612,18 @@
     "start_date_local": "2026-03-29T11:09:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 2207.1,
+    "elevation_gain": 144.0,
+    "id": "17937241531",
+    "moving_time": 2306.0,
+    "name": "Passeggiando",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-01T13:56:42Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
