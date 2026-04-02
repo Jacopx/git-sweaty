@@ -29625,5 +29625,18 @@
     "start_date_local": "2026-04-01T13:56:42Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 23075.8,
+    "elevation_gain": 526.0,
+    "id": "17949341803",
+    "moving_time": 3901.0,
+    "name": "Canotta, occhiale da spiaggia \ud83c\udfdd\ufe0f e puntura di ape \ud83d\udc1d",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T13:17:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
