@@ -29664,5 +29664,31 @@
     "start_date_local": "2026-04-03T19:20:54Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 85014.4,
+    "elevation_gain": 1503.0,
+    "id": "17977599408",
+    "moving_time": 12737.0,
+    "name": "Bielmonte dalla Valle Cervo \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T14:09:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 25129.7,
+    "elevation_gain": 529.0,
+    "id": "17984686375",
+    "moving_time": 4381.0,
+    "name": "Ciclismo pre-prandioPasquale \u2600\ufe0f\ud83d\udc23",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-05T10:24:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
