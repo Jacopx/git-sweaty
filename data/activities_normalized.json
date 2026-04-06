@@ -29690,5 +29690,31 @@
     "start_date_local": "2026-04-05T10:24:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 3353.6,
+    "elevation_gain": 72.0,
+    "id": "17990762683",
+    "moving_time": 2964.0,
+    "name": "Post prandiale \ud83d\udc23",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T18:31:52Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 16125.7,
+    "elevation_gain": 450.0,
+    "id": "17997546980",
+    "moving_time": 14113.0,
+    "name": "Direzione grigliata \ud83c\udf56",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-06T08:19:05Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
