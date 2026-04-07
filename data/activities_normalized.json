@@ -29716,5 +29716,18 @@
     "start_date_local": "2026-04-06T08:19:05Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 112586.0,
+    "elevation_gain": 1415.0,
+    "id": "18014972044",
+    "moving_time": 15979.0,
+    "name": "Centello estivo \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T12:39:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
