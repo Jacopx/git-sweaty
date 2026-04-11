@@ -29742,5 +29742,31 @@
     "start_date_local": "2026-04-08T20:27:56Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 771.1,
+    "elevation_gain": 3.0,
+    "id": "18057527172",
+    "moving_time": 810.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-10T21:15:47Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 14543.8,
+    "elevation_gain": 1554.0,
+    "id": "18063618064",
+    "moving_time": 15059.0,
+    "name": "Monte Ambin \ud83c\udfbf\u2600\ufe0f",
+    "raw_activity_type": "BackcountrySki",
+    "raw_type": "BackcountrySki",
+    "start_date_local": "2026-04-11T06:20:55Z",
+    "type": "BackcountrySki",
+    "year": 2026
   }
 ]

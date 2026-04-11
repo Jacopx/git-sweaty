@@ -16015,6 +16015,20 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 21,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 6,
+      "subtype": "BackcountrySki",
+      "type": "BackcountrySki",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35283,6 +35297,15 @@
           "distance": 23525.9,
           "elevation_gain": 1704.0,
           "moving_time": 18556.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18063618064"
+          ],
+          "count": 1,
+          "distance": 14543.8,
+          "elevation_gain": 1554.0,
+          "moving_time": 15059.0
         }
       },
       "Hike": {
@@ -36041,11 +36064,20 @@
           "distance": 1151.9,
           "elevation_gain": 53.0,
           "moving_time": 1141.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18057527172"
+          ],
+          "count": 1,
+          "distance": 771.1,
+          "elevation_gain": 3.0,
+          "moving_time": 810.0
         }
       }
     }
   },
-  "generated_at": "2026-04-10T16:00:15.353010+00:00",
+  "generated_at": "2026-04-11T15:39:33.004621+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57197",
   "repo": "Jacopx/git-sweaty",
