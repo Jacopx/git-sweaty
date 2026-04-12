@@ -29768,5 +29768,18 @@
     "start_date_local": "2026-04-11T06:20:55Z",
     "type": "BackcountrySki",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 879.9,
+    "elevation_gain": 46.0,
+    "id": "18076291321",
+    "moving_time": 905.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-12T11:21:26Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

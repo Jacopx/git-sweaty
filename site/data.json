@@ -16029,6 +16029,13 @@
       "subtype": "BackcountrySki",
       "type": "BackcountrySki",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 11,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36073,11 +36080,20 @@
           "distance": 771.1,
           "elevation_gain": 3.0,
           "moving_time": 810.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18076291321"
+          ],
+          "count": 1,
+          "distance": 879.9,
+          "elevation_gain": 46.0,
+          "moving_time": 905.0
         }
       }
     }
   },
-  "generated_at": "2026-04-11T15:39:33.004621+00:00",
+  "generated_at": "2026-04-12T15:41:51.860045+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57197",
   "repo": "Jacopx/git-sweaty",
