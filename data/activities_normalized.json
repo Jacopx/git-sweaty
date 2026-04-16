@@ -29781,5 +29781,18 @@
     "start_date_local": "2026-04-12T11:21:26Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 22773.8,
+    "elevation_gain": 429.0,
+    "id": "18131157591",
+    "moving_time": 3411.0,
+    "name": "Altra pausa pranzo attiva!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-16T13:14:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
