@@ -29794,5 +29794,18 @@
     "start_date_local": "2026-04-16T13:14:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 25740.6,
+    "elevation_gain": 255.0,
+    "id": "18144248054",
+    "moving_time": 3194.0,
+    "name": "Speeeedy Lunch \u26c5\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T13:16:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
