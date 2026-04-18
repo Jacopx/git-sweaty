@@ -29807,5 +29807,18 @@
     "start_date_local": "2026-04-17T13:16:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 105438.0,
+    "elevation_gain": 1883.0,
+    "id": "18159055195",
+    "moving_time": 17536.0,
+    "name": "Oropa - Croce Serra - Pettinengo \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T10:15:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
