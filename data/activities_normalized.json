@@ -29827,7 +29827,7 @@
     "elevation_gain": 292.0,
     "id": "18170692252",
     "moving_time": 3493.0,
-    "name": "Lunch Hike",
+    "name": "Da una casa all\u2019altra",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-04-19T12:25:52Z",
@@ -29845,6 +29845,19 @@
     "raw_type": "Hike",
     "start_date_local": "2026-04-19T16:43:23Z",
     "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 19031.7,
+    "elevation_gain": 310.0,
+    "id": "18175675202",
+    "moving_time": 2893.0,
+    "name": "Serale \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T18:39:21Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
