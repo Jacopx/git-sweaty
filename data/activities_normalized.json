@@ -29859,5 +29859,18 @@
     "start_date_local": "2026-04-19T18:39:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 46780.1,
+    "elevation_gain": 739.0,
+    "id": "18187605994",
+    "moving_time": 6500.0,
+    "name": "Fast serale \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-20T18:18:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
