@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T16:13:20.692457+00:00",
+  "generated_at": "2026-04-23T16:50:36.746517+00:00",
   "years": {
     "2016": {
       "AlpineSki": {
@@ -19334,6 +19334,17 @@
           "moving_time": 5577.0
         }
       },
+      "Pickleball": {
+        "2026-04-22": {
+          "activity_ids": [
+            "18216807300"
+          ],
+          "count": 1,
+          "distance": 232.5,
+          "elevation_gain": 0.0,
+          "moving_time": 4861.0
+        }
+      },
       "Ride": {
         "2026-01-04": {
           "activity_ids": [
@@ -19497,6 +19508,15 @@
           "elevation_gain": 1415.0,
           "moving_time": 15979.0
         },
+        "2026-04-09": {
+          "activity_ids": [
+            "18130269302"
+          ],
+          "count": 1,
+          "distance": 18616.5,
+          "elevation_gain": 410.0,
+          "moving_time": 3083.0
+        },
         "2026-04-16": {
           "activity_ids": [
             "18131157591"
@@ -19541,6 +19561,15 @@
           "distance": 46780.1,
           "elevation_gain": 739.0,
           "moving_time": 6500.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18225933345"
+          ],
+          "count": 1,
+          "distance": 76209.5,
+          "elevation_gain": 526.0,
+          "moving_time": 8612.0
         }
       },
       "VirtualRide": {

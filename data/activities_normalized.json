@@ -29744,6 +29744,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-09",
+    "distance": 18616.5,
+    "elevation_gain": 410.0,
+    "id": "18130269302",
+    "moving_time": 3083.0,
+    "name": "Pranzo ciclistico",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T13:31:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-04-10",
     "distance": 771.1,
     "elevation_gain": 3.0,
@@ -29870,6 +29883,32 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-20T18:18:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 232.5,
+    "elevation_gain": 0.0,
+    "id": "18216807300",
+    "moving_time": 4861.0,
+    "name": "Primaaaa",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pickleball",
+    "start_date_local": "2026-04-22T20:03:20Z",
+    "type": "Pickleball",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 76209.5,
+    "elevation_gain": 526.0,
+    "id": "18225933345",
+    "moving_time": 8612.0,
+    "name": "Balmuccia Express \ud83d\ude82",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T13:02:00Z",
     "type": "Ride",
     "year": 2026
   }
