@@ -29911,5 +29911,18 @@
     "start_date_local": "2026-04-23T13:02:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 21213.2,
+    "elevation_gain": 436.0,
+    "id": "18238122077",
+    "moving_time": 3647.0,
+    "name": "Temperatura plasir \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-24T13:13:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
