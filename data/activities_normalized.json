@@ -29924,5 +29924,18 @@
     "start_date_local": "2026-04-24T13:13:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 23986.6,
+    "elevation_gain": 474.0,
+    "id": "18252840030",
+    "moving_time": 4245.0,
+    "name": "Quando non sa da fa... Non sa da fa...",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T14:55:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
