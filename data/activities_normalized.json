@@ -29937,5 +29937,31 @@
     "start_date_local": "2026-04-25T14:55:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 19425.6,
+    "elevation_gain": 392.0,
+    "id": "18269956106",
+    "moving_time": 3614.0,
+    "name": "Poco, ma comunque meglio che niente! \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T18:36:49Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 2169.4,
+    "elevation_gain": 17.0,
+    "id": "18278202442",
+    "moving_time": 1553.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-27T14:37:05Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
