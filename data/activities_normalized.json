@@ -29963,5 +29963,18 @@
     "start_date_local": "2026-04-27T14:37:05Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 40125.5,
+    "elevation_gain": 919.0,
+    "id": "18282036189",
+    "moving_time": 6577.0,
+    "name": "Ahhhh la golden hour \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-27T18:20:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
