@@ -29976,5 +29976,18 @@
     "start_date_local": "2026-04-27T18:20:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 47939.2,
+    "elevation_gain": 685.0,
+    "id": "18310191441",
+    "moving_time": 7561.0,
+    "name": "Stasera poco golden, comunque ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-29T18:14:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
