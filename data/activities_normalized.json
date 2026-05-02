@@ -29989,5 +29989,31 @@
     "start_date_local": "2026-04-29T18:14:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 17235.1,
+    "elevation_gain": 502.0,
+    "id": "18336687288",
+    "moving_time": 16330.0,
+    "name": "Giro ai Campelli \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-01T10:08:17Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 33791.0,
+    "elevation_gain": 748.0,
+    "id": "18346994610",
+    "moving_time": 5358.0,
+    "name": "Rapido con salita briosa \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T14:34:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
