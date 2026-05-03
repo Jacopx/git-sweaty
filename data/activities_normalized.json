@@ -30015,5 +30015,31 @@
     "start_date_local": "2026-05-02T14:34:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 1904.7,
+    "elevation_gain": 41.0,
+    "id": "18350032150",
+    "moving_time": 2598.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-02T18:47:37Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 59133.6,
+    "elevation_gain": 1826.0,
+    "id": "18359082835",
+    "moving_time": 11450.0,
+    "name": "Bielmonte e rientro a Pratetts \u26c5\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T10:47:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
