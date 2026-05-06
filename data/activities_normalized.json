@@ -30067,5 +30067,31 @@
     "start_date_local": "2026-05-04T19:37:29Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 1593.8,
+    "elevation_gain": 7.0,
+    "id": "18390575893",
+    "moving_time": 1512.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-05T17:58:12Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 2108.1,
+    "elevation_gain": 16.0,
+    "id": "18397928421",
+    "moving_time": 1392.0,
+    "name": "Digestivo",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-06T13:13:16Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
