@@ -30093,5 +30093,18 @@
     "start_date_local": "2026-05-06T13:13:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 25149.3,
+    "elevation_gain": 479.0,
+    "id": "18411630621",
+    "moving_time": 3785.0,
+    "name": "Doccia leggera presa \ud83c\udf26\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T13:18:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
