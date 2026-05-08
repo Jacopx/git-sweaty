@@ -30106,5 +30106,18 @@
     "start_date_local": "2026-05-07T13:18:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 20209.2,
+    "elevation_gain": 369.0,
+    "id": "18423661407",
+    "moving_time": 3163.0,
+    "name": "Ieri doccia leggera\u2026 Oggi vasca da bagno \ud83c\udf27\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T11:57:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
