@@ -30145,5 +30145,44 @@
     "start_date_local": "2026-05-12T21:21:00Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 50616.2,
+    "elevation_gain": 1091.0,
+    "id": "18494931339",
+    "moving_time": 8620.0,
+    "name": "Dopo troppi giorni di sosta",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T16:39:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 2447.1,
+    "elevation_gain": 11.0,
+    "id": "18495352552",
+    "moving_time": 2284.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-13T21:14:36Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 2551.6,
+    "elevation_gain": 27.0,
+    "id": "18501305193",
+    "moving_time": 606.0,
+    "name": "L\u2019universo sta cercando di dirmi qualcosa, io non lo voglio ascoltare!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T11:13:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
