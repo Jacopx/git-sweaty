@@ -30184,5 +30184,18 @@
     "start_date_local": "2026-05-14T11:13:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 103000.0,
+    "elevation_gain": 1164.0,
+    "id": "18529152187",
+    "moving_time": 14803.0,
+    "name": "Che bei posti \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T09:44:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
