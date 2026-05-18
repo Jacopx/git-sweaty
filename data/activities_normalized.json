@@ -30197,5 +30197,18 @@
     "start_date_local": "2026-05-16T09:44:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 62572.2,
+    "elevation_gain": 633.0,
+    "id": "18553920336",
+    "moving_time": 7538.0,
+    "name": "Speeeedy morning \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-18T11:46:11Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
