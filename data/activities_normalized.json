@@ -30243,7 +30243,7 @@
     "elevation_gain": 12.0,
     "id": "18583477755",
     "moving_time": 221.0,
-    "name": "Afternoon Ride",
+    "name": "Oggi era il grande giorno, ma non per un giro in bici!",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-19T14:35:32Z",
@@ -30261,6 +30261,32 @@
     "raw_type": "Walk",
     "start_date_local": "2026-05-20T14:40:21Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 45643.2,
+    "elevation_gain": 969.0,
+    "id": "18585474836",
+    "moving_time": 7368.0,
+    "name": "Ahhhh i serali \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T18:05:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 25160.8,
+    "elevation_gain": 483.0,
+    "id": "18591707328",
+    "moving_time": 4090.0,
+    "name": "Da casa a casa \ud83c\udfe1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T08:25:04Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
