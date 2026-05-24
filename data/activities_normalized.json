@@ -30288,5 +30288,44 @@
     "start_date_local": "2026-05-21T08:25:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 46531.3,
+    "elevation_gain": 1056.0,
+    "id": "18612044169",
+    "moving_time": 7430.0,
+    "name": "Direzione casa: versione Bielmonte \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-22T18:31:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 29038.0,
+    "elevation_gain": 594.0,
+    "id": "18619434034",
+    "moving_time": 5605.0,
+    "name": "Voglia di stare all\u2019aperto, poca di pedalare",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T10:55:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 7526.5,
+    "elevation_gain": 541.0,
+    "id": "18634523091",
+    "moving_time": 8823.0,
+    "name": "Monte Bo da Meggiana \u2600\ufe0f",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-24T10:00:41Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

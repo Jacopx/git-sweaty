@@ -16309,6 +16309,27 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 18,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 10,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35652,6 +35673,15 @@
           "distance": 17235.1,
           "elevation_gain": 502.0,
           "moving_time": 16330.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18634523091"
+          ],
+          "count": 1,
+          "distance": 7526.5,
+          "elevation_gain": 541.0,
+          "moving_time": 8823.0
         }
       },
       "Pickleball": {
@@ -36034,6 +36064,24 @@
           "distance": 25160.8,
           "elevation_gain": 483.0,
           "moving_time": 4090.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18612044169"
+          ],
+          "count": 1,
+          "distance": 46531.3,
+          "elevation_gain": 1056.0,
+          "moving_time": 7430.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18619434034"
+          ],
+          "count": 1,
+          "distance": 29038.0,
+          "elevation_gain": 594.0,
+          "moving_time": 5605.0
         }
       },
       "VirtualRide": {
@@ -36703,7 +36751,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:12:01.015227+00:00",
+  "generated_at": "2026-05-24T16:05:25.828174+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57197",
   "repo": "Jacopx/git-sweaty",
