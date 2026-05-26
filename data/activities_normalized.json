@@ -30340,5 +30340,31 @@
     "start_date_local": "2026-05-25T14:03:35Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 2246.6,
+    "elevation_gain": 10.0,
+    "id": "18652723956",
+    "moving_time": 1875.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-25T21:13:25Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 25190.4,
+    "elevation_gain": 457.0,
+    "id": "18657895921",
+    "moving_time": 4171.0,
+    "name": "Ormai \u00e8 il mio nuovo mezzo di trasporto",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T08:56:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
