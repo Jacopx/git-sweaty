@@ -30366,5 +30366,31 @@
     "start_date_local": "2026-05-26T08:56:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 26237.9,
+    "elevation_gain": 462.0,
+    "id": "18664480642",
+    "moving_time": 4335.0,
+    "name": "Oggi double: pure il rientro \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T18:48:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 49314.3,
+    "elevation_gain": 1144.0,
+    "id": "18675188573",
+    "moving_time": 8327.0,
+    "name": "Cercando il fresco \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-27T10:27:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
