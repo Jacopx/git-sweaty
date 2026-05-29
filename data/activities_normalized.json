@@ -30392,5 +30392,18 @@
     "start_date_local": "2026-05-27T10:27:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 24030.4,
+    "elevation_gain": 253.0,
+    "id": "18704622112",
+    "moving_time": 3101.0,
+    "name": "Spurgatina pre sushi \ud83c\udf63",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-29T18:01:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
