@@ -30405,5 +30405,18 @@
     "start_date_local": "2026-05-29T18:01:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 75690.8,
+    "elevation_gain": 1001.0,
+    "id": "18713762061",
+    "moving_time": 10167.0,
+    "name": "A digerire il sushi di ieri \ud83d\ude02",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T10:03:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
