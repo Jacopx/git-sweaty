@@ -30418,5 +30418,18 @@
     "start_date_local": "2026-05-30T10:03:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 7679.3,
+    "elevation_gain": 644.0,
+    "id": "18726866819",
+    "moving_time": 8980.0,
+    "name": "Monticchio da Pratettsss",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-31T09:54:44Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
