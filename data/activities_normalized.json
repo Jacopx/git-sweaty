@@ -30431,5 +30431,18 @@
     "start_date_local": "2026-05-31T09:54:44Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 37442.3,
+    "elevation_gain": 945.0,
+    "id": "18774010926",
+    "moving_time": 6720.0,
+    "name": "Valle Cervo Road Bike Experience \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-03T18:22:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
