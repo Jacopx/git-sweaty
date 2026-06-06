@@ -30457,5 +30457,18 @@
     "start_date_local": "2026-06-04T13:16:11Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 52575.8,
+    "elevation_gain": 871.0,
+    "id": "18807584455",
+    "moving_time": 8122.0,
+    "name": "Il caricamento delle attivit\u00e0 di Garmin \u00e8 osceno\u2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T09:31:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
