@@ -30470,5 +30470,18 @@
     "start_date_local": "2026-06-05T09:31:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 41704.8,
+    "elevation_gain": 537.0,
+    "id": "18813692759",
+    "moving_time": 5947.0,
+    "name": "Piantato come un chiodo \ud83d\ude02",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T18:01:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
