@@ -30483,5 +30483,31 @@
     "start_date_local": "2026-06-06T18:01:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 25871.0,
+    "elevation_gain": 541.0,
+    "id": "18840231412",
+    "moving_time": 4293.0,
+    "name": "Cogliendo la palla al balzo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-08T18:48:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 22997.0,
+    "elevation_gain": 244.0,
+    "id": "18849728482",
+    "moving_time": 3038.0,
+    "name": "Giro bagnato, giro fortunato! \ud83c\udf89",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-09T13:17:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
