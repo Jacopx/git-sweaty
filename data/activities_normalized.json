@@ -30509,5 +30509,18 @@
     "start_date_local": "2026-06-09T13:17:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 35273.5,
+    "elevation_gain": 665.0,
+    "id": "18890358519",
+    "moving_time": 5620.0,
+    "name": "Giro di pranzo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T13:08:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
