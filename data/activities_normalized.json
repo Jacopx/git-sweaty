@@ -30522,5 +30522,18 @@
     "start_date_local": "2026-06-12T13:08:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 65150.6,
+    "elevation_gain": 1796.0,
+    "id": "18902689075",
+    "moving_time": 11686.0,
+    "name": "Papa Bravo Papa \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-13T09:55:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
