@@ -30542,11 +30542,37 @@
     "elevation_gain": 110.0,
     "id": "18913787306",
     "moving_time": 6760.0,
-    "name": "Morning Hike",
+    "name": "Pratetto-Pettinengo \u2600\ufe0f",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-06-14T09:03:42Z",
     "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 30585.6,
+    "elevation_gain": 649.0,
+    "id": "18932637001",
+    "moving_time": 5123.0,
+    "name": "Oggi \u00e8 un giorno molto importante",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-15T18:35:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 25929.8,
+    "elevation_gain": 496.0,
+    "id": "18946745058",
+    "moving_time": 4223.0,
+    "name": "Senza prenderla \ud83c\udf27\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T18:20:30Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
