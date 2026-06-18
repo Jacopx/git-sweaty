@@ -30574,5 +30574,18 @@
     "start_date_local": "2026-06-16T18:20:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 24419.9,
+    "elevation_gain": 405.0,
+    "id": "18970765054",
+    "moving_time": 3820.0,
+    "name": "Caldazza \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T13:15:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
