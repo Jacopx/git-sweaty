@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T16:24:02.663895+00:00",
+  "generated_at": "2026-06-21T16:49:09.125756+00:00",
   "years": {
     "2016": {
       "AlpineSki": {
@@ -19368,6 +19368,15 @@
           "distance": 8617.8,
           "elevation_gain": 110.0,
           "moving_time": 6760.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19008374976"
+          ],
+          "count": 1,
+          "distance": 5031.4,
+          "elevation_gain": 207.0,
+          "moving_time": 6748.0
         }
       },
       "Pickleball": {
@@ -20588,6 +20597,15 @@
           "distance": 4506.0,
           "elevation_gain": 29.0,
           "moving_time": 3828.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19012798599"
+          ],
+          "count": 1,
+          "distance": 4771.6,
+          "elevation_gain": 31.0,
+          "moving_time": 3433.0
         }
       }
     }

@@ -16477,6 +16477,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 9,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 17,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35847,6 +35861,15 @@
           "distance": 8617.8,
           "elevation_gain": 110.0,
           "moving_time": 6760.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19008374976"
+          ],
+          "count": 1,
+          "distance": 5031.4,
+          "elevation_gain": 207.0,
+          "moving_time": 6748.0
         }
       },
       "Pickleball": {
@@ -37067,11 +37090,20 @@
           "distance": 4506.0,
           "elevation_gain": 29.0,
           "moving_time": 3828.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19012798599"
+          ],
+          "count": 1,
+          "distance": 4771.6,
+          "elevation_gain": 31.0,
+          "moving_time": 3433.0
         }
       }
     }
   },
-  "generated_at": "2026-06-20T16:24:02.696270+00:00",
+  "generated_at": "2026-06-21T16:49:09.157659+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57197",
   "repo": "Jacopx/git-sweaty",
