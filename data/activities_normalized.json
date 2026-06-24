@@ -30639,5 +30639,18 @@
     "start_date_local": "2026-06-22T18:14:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 46605.6,
+    "elevation_gain": 985.0,
+    "id": "19039227760",
+    "moving_time": 7707.0,
+    "name": "Bielmontino serale \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T18:05:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
