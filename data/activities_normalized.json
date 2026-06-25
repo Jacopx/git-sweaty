@@ -30652,5 +30652,18 @@
     "start_date_local": "2026-06-23T18:05:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 21584.6,
+    "elevation_gain": 395.0,
+    "id": "19052807572",
+    "moving_time": 3612.0,
+    "name": "Serale afoso \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T18:18:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
