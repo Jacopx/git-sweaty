@@ -30691,5 +30691,18 @@
     "start_date_local": "2026-06-29T18:34:26Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 5079.2,
+    "elevation_gain": 239.0,
+    "id": "19122878443",
+    "moving_time": 3430.0,
+    "name": "Digestivo",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-30T13:17:39Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
