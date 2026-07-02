@@ -30717,5 +30717,31 @@
     "start_date_local": "2026-06-30T18:11:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 23455.6,
+    "elevation_gain": 534.0,
+    "id": "19140212222",
+    "moving_time": 4029.0,
+    "name": "Sempre giri corti ormai \ud83d\ude31",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-01T18:14:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 24191.0,
+    "elevation_gain": 255.0,
+    "id": "19149637450",
+    "moving_time": 3139.0,
+    "name": "Rapido per pranzo \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-02T13:18:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
