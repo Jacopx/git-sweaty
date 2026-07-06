@@ -30769,5 +30769,31 @@
     "start_date_local": "2026-07-04T21:02:14Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 4906.9,
+    "elevation_gain": 15.0,
+    "id": "19193794849",
+    "moving_time": 2349.0,
+    "name": "Questo sicuramente non \u00e8 correre, ma comunque \u00e8 meglio di niente\u2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T20:46:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 1800.0,
+    "elevation_gain": 3.0,
+    "id": "19196985664",
+    "moving_time": 1062.0,
+    "name": "Commissioni",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-06T07:27:33Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
