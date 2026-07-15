@@ -30795,5 +30795,18 @@
     "start_date_local": "2026-07-06T07:27:33Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 42220.9,
+    "elevation_gain": 917.0,
+    "id": "19322495571",
+    "moving_time": 7452.0,
+    "name": "Mi ero quasi dimenticato come si facesse a pedalare!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-15T10:39:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
