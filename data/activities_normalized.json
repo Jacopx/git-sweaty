@@ -30808,5 +30808,31 @@
     "start_date_local": "2026-07-15T10:39:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 31856.5,
+    "elevation_gain": 588.0,
+    "id": "19339060966",
+    "moving_time": 4886.0,
+    "name": "H2H",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T17:27:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 51739.7,
+    "elevation_gain": 1156.0,
+    "id": "19348258703",
+    "moving_time": 9095.0,
+    "name": "Bielmonte dalla Valle Cervo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T08:49:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
