@@ -30834,5 +30834,31 @@
     "start_date_local": "2026-07-17T08:49:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 4300.3,
+    "elevation_gain": 400.0,
+    "id": "19360593364",
+    "moving_time": 3922.0,
+    "name": "Direzione pranzo",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-18T11:10:53Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 5408.0,
+    "elevation_gain": 3.0,
+    "id": "19362762819",
+    "moving_time": 4576.0,
+    "name": "Rientro",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-18T13:35:05Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
