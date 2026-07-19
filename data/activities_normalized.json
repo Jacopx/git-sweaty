@@ -30860,5 +30860,18 @@
     "start_date_local": "2026-07-18T13:35:05Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 11678.4,
+    "elevation_gain": 1181.8,
+    "id": "19375407723",
+    "moving_time": 14374.0,
+    "name": "Rifugio Rivetti \u2600\ufe0f",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-19T08:46:48Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
