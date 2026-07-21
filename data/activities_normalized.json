@@ -30873,5 +30873,18 @@
     "start_date_local": "2026-07-19T08:46:48Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 3957.6,
+    "elevation_gain": 25.0,
+    "id": "19393791443",
+    "moving_time": 3663.0,
+    "name": "Due passi relax",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-20T21:12:20Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
