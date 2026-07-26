@@ -30899,5 +30899,18 @@
     "start_date_local": "2026-07-22T21:33:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 2620.1,
+    "elevation_gain": 2.8,
+    "id": "19463465726",
+    "moving_time": 2503.0,
+    "name": "Giretto a Carpi",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-25T20:22:06Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
