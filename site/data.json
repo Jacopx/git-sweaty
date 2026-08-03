@@ -16659,6 +16659,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 18,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37478,10 +37485,21 @@
           "elevation_gain": 10.0,
           "moving_time": 3137.0
         }
+      },
+      "WeightTraining": {
+        "2026-08-02": {
+          "activity_ids": [
+            "19572765761"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1342.0
+        }
       }
     }
   },
-  "generated_at": "2026-08-02T16:04:11.646525+00:00",
+  "generated_at": "2026-08-03T17:12:19.414962+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57197",
   "repo": "Jacopx/git-sweaty",
