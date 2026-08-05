@@ -30951,5 +30951,31 @@
     "start_date_local": "2026-08-02T18:10:21Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 33852.6,
+    "elevation_gain": 543.0,
+    "id": "19600930460",
+    "moving_time": 5468.0,
+    "name": "Dopo due settimane un tragico inizio\u2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-04T17:58:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 1693.4,
+    "elevation_gain": 15.0,
+    "id": "19608185826",
+    "moving_time": 1211.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-05T08:36:02Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
