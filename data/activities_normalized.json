@@ -30977,5 +30977,31 @@
     "start_date_local": "2026-08-05T08:36:02Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 44691.6,
+    "elevation_gain": 718.0,
+    "id": "19632136433",
+    "moving_time": 6450.0,
+    "name": "Giretto in zona",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-05T10:32:11Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 1421.0,
+    "elevation_gain": 38.0,
+    "id": "19630151479",
+    "moving_time": 1567.0,
+    "name": "Sopralluogo incendio",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-06T18:37:16Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
