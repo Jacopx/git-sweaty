@@ -31003,5 +31003,18 @@
     "start_date_local": "2026-08-06T18:37:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 2210.1,
+    "elevation_gain": 13.0,
+    "id": "19645556153",
+    "moving_time": 2210.0,
+    "name": "Serale",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-07T21:55:10Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
