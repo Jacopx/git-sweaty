@@ -31029,5 +31029,18 @@
     "start_date_local": "2026-08-07T10:13:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 3674.0,
+    "elevation_gain": 20.0,
+    "id": "19735352235",
+    "moving_time": 1321.0,
+    "name": "20 min sono pochi ma 0 sono ancora meno!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-14T09:07:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
