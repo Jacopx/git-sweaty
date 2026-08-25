@@ -31068,5 +31068,18 @@
     "start_date_local": "2026-08-22T20:29:49Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 100278.0,
+    "elevation_gain": 902.0,
+    "id": "19879788193",
+    "moving_time": 14082.0,
+    "name": "Pensavo di essere ancora capace: mi sbagliavo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-24T13:05:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
