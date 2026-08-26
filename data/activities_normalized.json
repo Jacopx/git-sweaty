@@ -31081,5 +31081,18 @@
     "start_date_local": "2026-08-24T13:05:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 116826.0,
+    "elevation_gain": 1570.0,
+    "id": "19908486805",
+    "moving_time": 17884.0,
+    "name": "Lunghetto zona lago",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-26T09:25:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
