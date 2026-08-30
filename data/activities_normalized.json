@@ -31107,5 +31107,31 @@
     "start_date_local": "2026-08-27T22:33:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 2479.4,
+    "elevation_gain": 17.0,
+    "id": "19954552307",
+    "moving_time": 2386.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-29T22:22:11Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 10005.6,
+    "elevation_gain": 836.0,
+    "id": "19964789040",
+    "moving_time": 14730.0,
+    "name": "Giro dei Lagoni di Campertogno",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-30T09:55:12Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
