@@ -31133,5 +31133,18 @@
     "start_date_local": "2026-08-30T09:55:12Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 2390.3,
+    "elevation_gain": 3.0,
+    "id": "19980733990",
+    "moving_time": 1960.0,
+    "name": "Digestiva",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-31T21:09:49Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
