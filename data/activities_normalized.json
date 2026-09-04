@@ -31146,5 +31146,18 @@
     "start_date_local": "2026-08-31T21:09:49Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 11466.3,
+    "elevation_gain": 703.0,
+    "id": "20033053451",
+    "moving_time": 21309.0,
+    "name": "Vagando",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-04T07:16:06Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
