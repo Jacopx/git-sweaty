@@ -31159,5 +31159,18 @@
     "start_date_local": "2026-09-04T07:16:06Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 63688.1,
+    "elevation_gain": 678.0,
+    "id": "20045658137",
+    "moving_time": 8365.0,
+    "name": "Fast Ferruta \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-05T11:07:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
