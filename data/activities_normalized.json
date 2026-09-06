@@ -31172,5 +31172,18 @@
     "start_date_local": "2026-09-05T11:07:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 90718.5,
+    "elevation_gain": 879.0,
+    "id": "20058856271",
+    "moving_time": 10872.0,
+    "name": "Too fast for giro del Lago \ud83d\udd25\u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T09:09:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
