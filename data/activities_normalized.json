@@ -31198,5 +31198,44 @@
     "start_date_local": "2026-09-07T20:56:05Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 2056.5,
+    "elevation_gain": 12.0,
+    "id": "20167296244",
+    "moving_time": 1433.0,
+    "name": "Commissioni",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-14T09:24:15Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 1977.2,
+    "elevation_gain": 17.0,
+    "id": "20170132084",
+    "moving_time": 1560.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-14T14:14:00Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 2229.4,
+    "elevation_gain": 14.0,
+    "id": "20175609289",
+    "moving_time": 2120.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-14T21:05:13Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

@@ -16799,6 +16799,27 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 9,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 14,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 21,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37788,6 +37809,17 @@
           "distance": 4060.8,
           "elevation_gain": 17.0,
           "moving_time": 3128.0
+        },
+        "2026-09-14": {
+          "activity_ids": [
+            "20167296244",
+            "20170132084",
+            "20175609289"
+          ],
+          "count": 3,
+          "distance": 6263.1,
+          "elevation_gain": 43.0,
+          "moving_time": 5113.0
         }
       },
       "WeightTraining": {
@@ -37803,7 +37835,7 @@
       }
     }
   },
-  "generated_at": "2026-09-13T18:01:04.910774+00:00",
+  "generated_at": "2026-09-14T19:47:21.898813+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57197",
   "repo": "Jacopx/git-sweaty",
