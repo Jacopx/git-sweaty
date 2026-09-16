@@ -31250,5 +31250,18 @@
     "start_date_local": "2026-09-15T07:41:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 130242.0,
+    "elevation_gain": 1704.0,
+    "id": "20200081926",
+    "moving_time": 20239.0,
+    "name": "Ponzone-Zurigo: Tappa 2 \ud83c\udf26\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-16T07:58:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
