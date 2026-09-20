@@ -31276,5 +31276,18 @@
     "start_date_local": "2026-09-18T15:41:08Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 11480.6,
+    "elevation_gain": 1498.0,
+    "id": "20256747945",
+    "moving_time": 20692.0,
+    "name": "Rocciamelone \u2600\ufe0f #caitrivero",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-20T08:19:33Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
