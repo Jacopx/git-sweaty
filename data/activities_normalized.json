@@ -31289,5 +31289,18 @@
     "start_date_local": "2026-09-20T08:19:33Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 3570.0,
+    "elevation_gain": 26.0,
+    "id": "20301803817",
+    "moving_time": 3019.0,
+    "name": "Passeggiata serale",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-23T21:03:40Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
