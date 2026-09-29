@@ -31315,5 +31315,18 @@
     "start_date_local": "2026-09-27T20:59:23Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 12620.3,
+    "elevation_gain": 116.0,
+    "id": "20380300521",
+    "moving_time": 10508.0,
+    "name": "Turistando a piedi \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-29T14:46:57Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
