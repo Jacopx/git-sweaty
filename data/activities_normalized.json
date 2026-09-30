@@ -31328,5 +31328,18 @@
     "start_date_local": "2026-09-29T14:46:57Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 4551.3,
+    "elevation_gain": 17.0,
+    "id": "20389315606",
+    "moving_time": 3051.0,
+    "name": "Passeggiata mattutina Romana",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-30T09:08:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
