@@ -31354,5 +31354,18 @@
     "start_date_local": "2026-10-09T20:41:57Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 34840.6,
+    "elevation_gain": 700.0,
+    "id": "20525575656",
+    "moving_time": 5661.0,
+    "name": "Quanto tempo\u2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-10T10:33:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
