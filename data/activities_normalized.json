@@ -31367,5 +31367,31 @@
     "start_date_local": "2026-10-10T10:33:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 2098.7,
+    "elevation_gain": 370.0,
+    "id": "20537319907",
+    "moving_time": 2924.0,
+    "name": "Salita al Boffalora",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-10T17:41:18Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 2300.9,
+    "elevation_gain": 6.0,
+    "id": "20537319727",
+    "moving_time": 2410.0,
+    "name": "Discesa da Boffa",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-11T08:50:31Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
