@@ -31406,5 +31406,18 @@
     "start_date_local": "2026-10-12T19:04:44Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 3085.3,
+    "elevation_gain": 27.0,
+    "id": "20572788544",
+    "moving_time": 2371.0,
+    "name": "Passeggiata serale",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-13T20:58:47Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
