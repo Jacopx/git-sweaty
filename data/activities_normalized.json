@@ -31419,5 +31419,31 @@
     "start_date_local": "2026-10-13T20:58:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 2072.8,
+    "elevation_gain": 12.0,
+    "id": "20586904949",
+    "moving_time": 1878.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-14T20:56:50Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 65185.9,
+    "elevation_gain": 754.0,
+    "id": "20593555880",
+    "moving_time": 9598.0,
+    "name": "Non male per essere Gioved\u00ec \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-15T09:36:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
