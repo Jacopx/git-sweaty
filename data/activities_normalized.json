@@ -31445,5 +31445,18 @@
     "start_date_local": "2026-10-15T09:36:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 32276.1,
+    "elevation_gain": 657.0,
+    "id": "20609066096",
+    "moving_time": 5865.0,
+    "name": "Nuovo livello di pannolaggio",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-16T14:15:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
