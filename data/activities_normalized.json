@@ -31458,5 +31458,18 @@
     "start_date_local": "2026-10-16T14:15:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 43869.1,
+    "elevation_gain": 744.0,
+    "id": "20619878179",
+    "moving_time": 6903.0,
+    "name": "Croce Serra \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-17T11:20:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -16939,6 +16939,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 11,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37125,6 +37132,15 @@
           "distance": 32276.1,
           "elevation_gain": 657.0,
           "moving_time": 5865.0
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "20619878179"
+          ],
+          "count": 1,
+          "distance": 43869.1,
+          "elevation_gain": 744.0,
+          "moving_time": 6903.0
         }
       },
       "Run": {
@@ -38107,7 +38123,7 @@
       }
     }
   },
-  "generated_at": "2026-10-16T18:42:43.987581+00:00",
+  "generated_at": "2026-10-17T17:49:04.803188+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57197",
   "repo": "Jacopx/git-sweaty",
