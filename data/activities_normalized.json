@@ -31484,5 +31484,44 @@
     "start_date_local": "2026-10-25T07:27:02Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 62238.7,
+    "elevation_gain": 576.0,
+    "id": "20736731515",
+    "moving_time": 8652.0,
+    "name": "Luned\u00ec dei parrucchieri \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-26T10:57:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 2002.2,
+    "elevation_gain": 16.0,
+    "id": "20737627998",
+    "moving_time": 1497.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-26T14:24:51Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 2821.6,
+    "elevation_gain": 23.0,
+    "id": "20741079121",
+    "moving_time": 1835.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-26T17:20:34Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
