@@ -31523,5 +31523,18 @@
     "start_date_local": "2026-10-26T17:20:34Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 32644.0,
+    "elevation_gain": 630.0,
+    "id": "20752625311",
+    "moving_time": 5580.0,
+    "name": "Solite zone \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-27T14:52:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
