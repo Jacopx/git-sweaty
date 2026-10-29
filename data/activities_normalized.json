@@ -31536,5 +31536,18 @@
     "start_date_local": "2026-10-27T14:52:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 2796.6,
+    "elevation_gain": 42.0,
+    "id": "20781572899",
+    "moving_time": 1875.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-29T18:21:51Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
