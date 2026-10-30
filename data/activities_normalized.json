@@ -31543,11 +31543,24 @@
     "elevation_gain": 42.0,
     "id": "20781572899",
     "moving_time": 1875.0,
-    "name": "Evening Walk",
+    "name": "Rientro dalla stazione",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-10-29T18:21:51Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 37921.3,
+    "elevation_gain": 535.0,
+    "id": "20790308893",
+    "moving_time": 5504.0,
+    "name": "Prima di pranzo \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-30T11:35:56Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
