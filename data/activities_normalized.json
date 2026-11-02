@@ -31588,5 +31588,18 @@
     "start_date_local": "2026-10-31T10:57:56Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 1941.7,
+    "elevation_gain": 11.0,
+    "id": "20822071969",
+    "moving_time": 1633.0,
+    "name": "Il solito digestivo",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-01T20:27:27Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
