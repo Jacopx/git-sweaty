@@ -31601,5 +31601,18 @@
     "start_date_local": "2026-11-01T20:27:27Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 95728.8,
+    "elevation_gain": 905.0,
+    "id": "20908174473",
+    "moving_time": 12883.0,
+    "name": "Il centello era sopravvalutato \ud83c\udf24\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-08T09:35:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
