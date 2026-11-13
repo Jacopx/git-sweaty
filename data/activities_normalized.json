@@ -31614,5 +31614,18 @@
     "start_date_local": "2026-11-08T09:35:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 41032.3,
+    "elevation_gain": 670.0,
+    "id": "20973935031",
+    "moving_time": 6561.0,
+    "name": "Le giornate sono troppo corte per uscire al pomeriggio",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-13T15:41:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
