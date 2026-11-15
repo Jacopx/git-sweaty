@@ -31627,5 +31627,18 @@
     "start_date_local": "2026-11-13T15:41:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 5533.4,
+    "elevation_gain": 154.0,
+    "id": "20994813366",
+    "moving_time": 4242.0,
+    "name": "Anello Santa Eurosia \ud83c\udf25\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-15T10:23:15Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
