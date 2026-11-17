@@ -31640,5 +31640,18 @@
     "start_date_local": "2026-11-15T10:23:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 7168.2,
+    "elevation_gain": 23.0,
+    "id": "21026154580",
+    "moving_time": 6144.0,
+    "name": "Passeggiata lungo mare",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-17T16:52:56Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
