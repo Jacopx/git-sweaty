@@ -31679,5 +31679,31 @@
     "start_date_local": "2026-11-20T16:36:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21066280277",
+    "moving_time": 523.0,
+    "name": "Morning routine",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-21T07:18:05Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21074117027",
+    "moving_time": 522.0,
+    "name": "Mobilit\u00e0 serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-21T18:31:40Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
