@@ -31744,5 +31744,18 @@
     "start_date_local": "2026-11-24T07:53:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 4471.0,
+    "elevation_gain": 47.0,
+    "id": "21135135262",
+    "moving_time": 3753.0,
+    "name": "Pre cena",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-26T18:14:20Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
