@@ -31757,5 +31757,44 @@
     "start_date_local": "2026-11-26T18:14:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 6127.5,
+    "elevation_gain": 102.0,
+    "id": "21142664404",
+    "moving_time": 5021.0,
+    "name": "Svegliaaaaa \u2600\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-27T10:46:05Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 7310.2,
+    "elevation_gain": 42.0,
+    "id": "21144006996",
+    "moving_time": 5837.0,
+    "name": "Al fresco intorno al lago \u2744\ufe0f",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-27T14:53:38Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 1001.6,
+    "elevation_gain": 15.0,
+    "id": "21144440795",
+    "moving_time": 810.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-27T17:02:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
